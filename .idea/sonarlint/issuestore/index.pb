@@ -9,3 +9,5 @@ W
 'contracts/firmware-update-contract.clar,a/8/a8cd138575e6331bff312f5c112446a614ca5903
 V
 &tests/firmware-update-contract.test.ts,1/c/1cce5a8db25e7501ac749bcdbeb0df8a49702a14
+V
+&contracts/access-control-contract.clar,c/6/c683ab9c8502d81bae1c1a00b8ff74328d917e1a
