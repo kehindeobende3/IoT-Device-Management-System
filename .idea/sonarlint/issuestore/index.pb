@@ -1,3 +1,15 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++contracts/device-registration-contract.clar,b/b/bb229ab2d86e78f5eb04fdcde3fdf1dd6f828c4f
+Z
+*tests/device-registration-contract.test.ts,6/8/68387d94b29b0bd809cbd0c8e5984b13466f4336
+W
+'contracts/firmware-update-contract.clar,a/8/a8cd138575e6331bff312f5c112446a614ca5903
+V
+&tests/firmware-update-contract.test.ts,1/c/1cce5a8db25e7501ac749bcdbeb0df8a49702a14
+V
+&contracts/access-control-contract.clar,c/6/c683ab9c8502d81bae1c1a00b8ff74328d917e1a
+U
+%tests/access-control-contract.test.ts,c/b/cbd35b3af117f2aab71ffce7d94c4385867490a5
