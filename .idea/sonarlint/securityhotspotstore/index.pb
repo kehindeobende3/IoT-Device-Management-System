@@ -7,3 +7,5 @@ Z
 *tests/device-registration-contract.test.ts,6/8/68387d94b29b0bd809cbd0c8e5984b13466f4336
 W
 'contracts/firmware-update-contract.clar,a/8/a8cd138575e6331bff312f5c112446a614ca5903
+V
+&tests/firmware-update-contract.test.ts,1/c/1cce5a8db25e7501ac749bcdbeb0df8a49702a14
