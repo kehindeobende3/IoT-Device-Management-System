@@ -11,3 +11,5 @@ V
 &tests/firmware-update-contract.test.ts,1/c/1cce5a8db25e7501ac749bcdbeb0df8a49702a14
 V
 &contracts/access-control-contract.clar,c/6/c683ab9c8502d81bae1c1a00b8ff74328d917e1a
+U
+%tests/access-control-contract.test.ts,c/b/cbd35b3af117f2aab71ffce7d94c4385867490a5
