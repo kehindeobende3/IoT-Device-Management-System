@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/device-registration-contract.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.firmware-update-contract]
+path = 'contracts/firmware-update-contract.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

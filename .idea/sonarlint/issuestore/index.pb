@@ -5,3 +5,5 @@
 +contracts/device-registration-contract.clar,b/b/bb229ab2d86e78f5eb04fdcde3fdf1dd6f828c4f
 Z
 *tests/device-registration-contract.test.ts,6/8/68387d94b29b0bd809cbd0c8e5984b13466f4336
+W
+'contracts/firmware-update-contract.clar,a/8/a8cd138575e6331bff312f5c112446a614ca5903
